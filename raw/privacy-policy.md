@@ -37,7 +37,7 @@ Javascript ist Deaktiviert oder wird nicht unterstützt - wird aber benötigt um
 </noscript>
 
 <p>Website(s):</p>
-<a href="./websites/index.html">Domains hier einsehen</a>
+<a href="./websites">Domains hier einsehen</a>
 </blockquote>
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3>
 <blockquote><p>&#8211; Bestandsdaten (z.B., Namen, Adressen).<br>
