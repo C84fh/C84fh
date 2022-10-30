@@ -4,32 +4,7 @@ title:  "Datenschutzerklärung"
 <h2>Datenschutzerkl&auml;rung</h2>
 <blockquote><p>Diese Datenschutzerkl&auml;rung kl&auml;rt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepr&auml;senzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).</p></blockquote>
 <h3 id="dsg-general-controller">Verantwortlicher</h3>
-<blockquote>
-<p>Chris Pfeifer<br>
-Caya Postbox 474428<br>
-11516 Berlin</p>
-<p>Deutschland</p>
-Tel.: <script>
-// Function to reverse string 
-
-function ReverseString(str) { 
-
-   return str.split('').reverse().join('') 
-
-} 
-
-  
-
-// Function call  
-
-document.write(ReverseString("923 gizfnüfdnuiewztrednuhreiv 87 shces 510 )0( 9400")) 
-
-</script> 
-<noscript>
-<span style="text-decoration: underline wavy red; ">Your browser does not support JavaScript - but is required to display the number! <br/>
-Javascript ist Deaktiviert oder wird nicht unterstützt - wird aber benötigt um die Nummer anzuzeigen!</span>
-</noscript>
-
+Entnehmen Sie bitte die Kontaktdaten/Kontaktmöglichkeiten dem [Impressum](./impressum) 
 <p>Website(s):</p>
 <a href="./websites">Domains hier einsehen</a>
 </blockquote>
