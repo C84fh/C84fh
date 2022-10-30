@@ -15,6 +15,7 @@ CAYA Postbox 474428<br>
 
 </blockquote>
 </div>
+<p>Hinweis: Bei der Anschrift handelt es sich um ein digitales Postfach. Alle Physischen Bestandteile (Brief, Umschlag, Werbegeschenke und ähnliches werden vom Postfachanbieter vernichtet oder die Sendung als unzustellbar retourniert. Bezüglich Zusendung von Werbematerial lesen Sie bitte den nachfolgenden Hinweis. </p>
 <p><!-- Hinweis: Behörden nutzen Bitte die beim Registrar hinterlegte Anschrift. --></p>
 <p>Verantwortlich i.S.d. § 18 Abs. 2 MStV:</p>
 <blockquote>
