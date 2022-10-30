@@ -1,7 +1,4 @@
 ---
-layout: imprint
-date:   2021-08-03 08:15:00
-categories: Info
 title:  "Impressum"
 --- 
 <div id="g_body">
@@ -13,7 +10,7 @@ title:  "Impressum"
 <p>Chris Pfeifer<br>
 CAYA Postbox 474428<br>
 11516 Berlin</p>
-<p>Stichwort: yourls</p>
+<p>Stichwort: y-c84fh</p>
 <!-- .entry-content -->
 
 </blockquote>
@@ -35,28 +32,7 @@ CAYA Postbox 474428<br>
 <h4><b>Telefonisch:</b></h4>
 <blockquote>
 <p>Eine Telefonische Kontaktaufnahme ist möglich unter der Rufnummer<br>
-<script>
-// Function to reverse string 
-
-function ReverseString(str) { 
-
-   return str.split('').reverse().join('') 
-
-} 
-
-  
-
-// Function call  
-
-document.write(ReverseString("923 gizfnüfdnuiewztrednuhreiv 87 shces 510 )0( 9400")) 
-
-</script> 
-<noscript>
-<span style="text-decoration: underline wavy red; ">Your browser does not support JavaScript - but is required to display the number! <br/>
-Javascript ist Deaktiviert oder wird nicht unterstützt - wird aber benötigt um die Nummer anzuzeigen!</span>
-</noscript>
-
-
+- -
 </p>
 <p>Hinterlassen Sie gerne Ihre Kontaktdaten unter Nennung Ihres<br>
 Grundes für den Anruf, sofern die Mailbox das Gespräch annimmt.</p>
