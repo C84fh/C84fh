@@ -1,11 +1,5 @@
 ---
-layout: post
-date:   2021-08-03 08:15:00
-categories: Info
-permalink: haftungsausschluss/index.html
 title:  "Haftungsausschluss"
-thumbnail: icon-152x152.png
-highresolutionimg: icon-152x152.png
 ---
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
