@@ -4,12 +4,7 @@ date:   2021-08-03 08:15:00
 categories: Info
 title:  "Impressum"
 ---
-<span class="entry-format-badge genericon genericon-location"><span class="screen-reader-text">Location</span></span>
-
-<div class="post">
-
-
-		<div id="g_body">
+<div id="g_body">
 <h2>Anbieterkennzeichnung</h2>
 <p>Diese Webseite ist ein Privates Projekt und wird ohne Gewinnabsichten Betrieben/Betreut von:</p>
 <blockquote>
@@ -69,7 +64,7 @@ Grundes für den Anruf, sofern die Mailbox das Gespräch annimmt.</p>
 </blockquote>
 <h4><b>Mail:</b></h4>
 <blockquote>
-<div><a title="Kontakt" href="https://goto.pc-cdn.de/kontakt" target="_blank" rel="noopener noreferrer">zum Kontaktformular</a></div>
+<div><a title="Kontakt" href="./kontakt" target="_blank" rel="noopener noreferrer">zum Kontaktformular</a></div>
 </blockquote>
 <h4><b>Threema:</b></h4>
 <blockquote>
