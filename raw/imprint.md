@@ -3,9 +3,7 @@ layout: imprint
 date:   2021-08-03 08:15:00
 categories: Info
 title:  "Impressum"
----
-# {{ title }}  
-  
+--- 
 <div id="g_body">
 <h2>Anbieterkennzeichnung</h2>
 <p>Diese Webseite ist ein Privates Projekt und wird ohne Gewinnabsichten Betrieben/Betreut von:</p>
