@@ -1,4 +1,13 @@
 ---
 title: Quellennachweise 
 ---
-No content at this time 
+- [YOURLS](https://yourls.com)  
+  Your Own URL Shortener 
+
+- [casual-markdown](https://github.com/casualwriter/casual-markdown)  
+  is a super lightweight RegExp-based markdown parser, with TOC and scrollspy support  
+
+
+
+
+
