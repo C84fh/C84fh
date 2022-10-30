@@ -2,17 +2,9 @@
 layout: imprint
 date:   2021-08-03 08:15:00
 categories: Info
-permalink: impressum-n/index.html
 title:  "Impressum"
-thumbnail: nipp-es-150.png
-highresolutionimg: nipp-es-310.png
 ---
 <span class="entry-format-badge genericon genericon-location"><span class="screen-reader-text">Location</span></span>
-<!--<h2>{{ page.title }}</h2>-->
-
-<p class="meta">{{ page.date | date_to_string }}</p>
-
-<p><img src="/assets/img/post-images/{{page.highresolutionimg}}" alt="{{ page.title }}"></p>
 
 <div class="post">
 
