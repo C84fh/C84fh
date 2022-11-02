@@ -1,0 +1,17 @@
+#title 	{
+    float:left;
+    font-size:x-large;
+    font-weight:700;
+    padding:8px;
+}
+#title::before{
+    content: "";
+    white-space: pre;
+}
+#title::after { 
+    content: "";
+    width:100vw;
+    height: 1px;
+clear: both;
+display: block;
+}
