@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html dir="ltr" lang="de">
+<html lang="{{ site.locale | slice: 0,2 | default: "de" }}">
 <head>
-	<title>mdl &laquo; YOURLS &mdash; Your Own URL Shortener | https://2.c84fh.cf/</title>
+	<title>{% if page.title %}{{ page.title }}{% endif %}{% if site.title %} | {% endif %}{{ site.title }}{% if site.subtitle %} - {% endif %}{{ site.subtitle }}</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <script src="https://consent.cookiefirst.com/sites/2.c84fh.cf-7a7961a4-fbf4-4d6e-903f-ecbeff8f0c31/consent.js"></script>
 <meta name="viewport" content="initial-scale=1">
@@ -43,13 +43,27 @@
 	//]]>
 	</script>
 	
-
-<style type="text/css">
-		body {background:#e3f3ff url(https://2.c84fh.cf/user/plugins/random-bg/img/bg_yourls.png) repeat;}
-	</style>
 </head>
 <body class="mdloader mobile" onload="md.load(allowfrom+resurl)">
 
+<script>
+
+var myArray = ['https://2.c84fh.cf/user/plugins/random-bg/img/bg_yourls.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_fuzzy_bits.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_life.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_fuzzy.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_diag.png', 'https://2.c84fh.cf/user/plugins/random-bg/img/bg_cross.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_circles.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_boobs.png','https://2.c84fh.cf/user/plugins/random-bg/img/bg_ants.png'];
+
+
+function RandArray(array){
+ var rand = Math.random()*array.length | 0;
+ var randSelect = array[rand];
+ return randSelect;
+ } 
+var randSelect = RandArray(myArray); 
+
+
+/*
+var randSelect = "https://2.c84fh.cf/user/plugins/random-bg/img/bg_fuzzy_bits.png";
+*/
+document.body.style.backgroundImage= 'url(' + randSelect + ')';
+</script>
 
 <div id="wrap">
  <div id=header class="theme"></div>
@@ -70,4 +84,3 @@
 		
 </body>
 </html>
-	
