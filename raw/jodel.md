@@ -12,7 +12,7 @@ Jodel war ursprünglich eine reine Studentenapp, in der die Hauptthemen Studium 
 <div class="flex download-icon auto text-align-center"><p class="heading-58 ultra main app text-align-center">hol dir jetzt jodel: </p></div>
 
 <div class="flex download-icon auto text-align-center">
- <a href="https://apps.apple.com/us/app/jodel-hyperlocal-community/id789870026" target="_blank" class="link-block-6 w-inline-block"><img src="https://uploads-ssl.webflow.com/5e9999c710343e94e0e99eb8/61642b45a748ee71877ea921_Download_on_the_App_Store_Badge_DE_blk_092917.png" width="150" alt="" class="features-reports-icon appicon"/></a>
- <a href="https://play.google.com/store/apps/details?id=com.tellm.android.app" target="_blank" class="link-block-5 w-inline-block"><img src="https://uploads-ssl.webflow.com/5e9999c710343e94e0e99eb8/61642b38bbf68f10fa1ab8c4_google-play-badge.png" width="160" alt="" class="features-reports-icon appicon"/></a>
+ <a href="http://2.c84fh.cf/getjodelios" target="_blank" class="link-block-6 w-inline-block"><img src="https://uploads-ssl.webflow.com/5e9999c710343e94e0e99eb8/61642b45a748ee71877ea921_Download_on_the_App_Store_Badge_DE_blk_092917.png" width="150" alt="" class="features-reports-icon appicon"/></a>
+ <a href="http://2.c84fh.cf/getjodelaps" target="_blank" class="link-block-5 w-inline-block"><img src="https://uploads-ssl.webflow.com/5e9999c710343e94e0e99eb8/61642b38bbf68f10fa1ab8c4_google-play-badge.png" width="160" alt="" class="features-reports-icon appicon"/></a>
 </div>
 
