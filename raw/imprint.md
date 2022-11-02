@@ -1,5 +1,5 @@
 ---
-title:  "Impressum"
+title: Impressum
 --- 
 <div id="g_body">
 <h2>Anbieterkennzeichnung</h2>
