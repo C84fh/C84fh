@@ -1,5 +1,5 @@
 ---
-title:  "Haftungsausschluss"
+title: Haftungsausschluss
 ---
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
