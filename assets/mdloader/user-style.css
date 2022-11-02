@@ -2,7 +2,6 @@
     float:left;
     font-size:x-large;
     font-weight:700;
-    padding:8px;
 }
 #title::before{
     content: "";
