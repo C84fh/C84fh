@@ -1,5 +1,5 @@
 ---
-title: Wunschzettel 
+zztitle: Wunschzettel 
 ---
 ![Wunschzettel auf Amazon](https://g.c84fh.cf/assets/cdn/wishlist-logo-c84.png)
 
