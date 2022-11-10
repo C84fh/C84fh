@@ -16,7 +16,19 @@ clear: both;
 display: block;
 }
 
-.toc { background-color: #efefef; background: #efefef; margin:0 8px;}
+.toc { 
+/*
+background-color: #efefef; 
+background: #efefef; 
+margin:0 8px;
+*/
+margin-bottom:20px;
+background-color:#fff;
+border:1px solid transparent;
+border-radius:4px;
+-webkit-box-shadow:0 1px 1px rgba(0,0,0,.05);
+box-shadow:0 1px 1px rgba(0,0,0,.05)
+}
 .toc ul  { padding: 0 6px; }
 .toc .active { color:#0057b7  }
 .toc li:hover { background:#f0f0f0 }
