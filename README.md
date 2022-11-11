@@ -1,3 +1,3 @@
-![](https://avatars.githubusercontent.com/u/117023299?v=4){: width=75% height=75% style="padding:16px"} 
+![](https://avatars.githubusercontent.com/u/117023299?v=4){: style="padding:16px; width:75%;height:75%"} 
 
 ### Hi there 👋
