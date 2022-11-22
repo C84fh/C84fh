@@ -4,7 +4,7 @@ title: Haftungsausschluss
 <h2>Domains</h2>
 <p>Die für das Impressum bzw den Haftungsausschluss zugehörigen Domains sind</p>
 <blockquote>
-<h3><a href="/websites/">hier einsehbar</a></h3>
+<h3><a href="https://2.c84fh.cf/websites">hier einsehbar</a></h3>
 </blockquote>
 <div align="left">
 <h2>Haftung für Links</h2>
