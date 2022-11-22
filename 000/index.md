@@ -1,8 +1,12 @@
 ---
 title: Hello World
 ---
-![](https://avatars.githubusercontent.com/u/117023299?v=4)
+<H3 style="text-align:center;">Vielen Dank für Ihren Besuch auf dieser Seite. <br> Dies ist die Website des Jodel-Nutzers</h3>
 
-### Hi there 👋
+<img src="https://github.com/C84fh.png" alt="" style="padding:16px; width:85%; height:85%; align-items: center;" />
 
-Bitte Besuche [https://2.c84fh.cf](https://2.c84fh.cf/about)
+<hr/>
+
+<h2 style="text-align:center;">Mein Spitzname ist Chris und ich bin <img src="https://2.c84fh.cf/svgimg/img.php"> Jahre alt.</h2>
+
+<p>Meine Hobbys sind Tauchen, meine (schlechten) <a href="https://2.c84fh.cf/websites">Webseite(n)</a> und <a href="https://2.c84fh.cf/jodel">Jodeln</a></p>
