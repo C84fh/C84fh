@@ -3,7 +3,7 @@ title: Hello World
 ---
 <H3 style="text-align:center;">Vielen Dank für Ihren Besuch auf dieser Seite. <br> Dies ist die Website des Jodel-Nutzers</h3>
 
-<img src="https://github.com/C84fh.png" alt="" style="padding:16px; width:85%; height:85%; align-items: center;" />
+<img src="https://g.c84fh.cf/assets/cdn/C84fh.svg?lc=1" alt="" style="padding:16px; width:85%; height:85%; align-items: center;" />
 
 <hr/>
 
