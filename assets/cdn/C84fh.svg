@@ -6,20 +6,20 @@
 
 #DASCE {
 font-family: 'Lato'; 
-font-weight: 1000;
-font-style: bold;
+font-weight: 400;
+/*font-style: bold;*/
 font-size: 888px; 
 }
 
 #ACHTVIER {
 font-family:'ChunkFive-Regular';
-/*font-style: bold;*/
+font-style: bold;
 font-size: 400px;
 }
 
 #FHLM {
 font-family:'ChunkFive-Regular';
-/*font-style:bold;*/
+font-style:bold;
 font-size: 252px;
 }
 </style>
