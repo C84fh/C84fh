@@ -6,7 +6,7 @@
 
 #DASCE {}
 #ACHTVIER {}
-#EFHA {}
+#EFHA {display: block;}
 #ELEM {display: none;}
 </style>
 
@@ -93,8 +93,6 @@ fill="url(#rFHLM)" stroke="none">
 
 
 
-
-
 <script>
 pattern09="[0-9]*";
 
@@ -104,20 +102,12 @@ const urlParams = new URLSearchParams(queryString);
 
 textA = urlParams.get('lc');
 if (textA =="1") {
-    var x = document.getElementById("EFHA");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-} else {
+var x = document.getElementById("EFHA");
+    x.style.display = "none";
 var y = document.getElementById("ELEM");
-  if (y.style.display === "none") {
     y.style.display = "block";
-  } else {
-    y.style.display = "none";
-  }
-}
+
+} 
 document.getElementById("FHLM").innerHTML = textA;
 </script>
 </svg>
