@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<style>
+@import url("https://css.fonts.pc-cdn.eu/css/?family=Lato"); 
+@import url("https://css.fonts.pc-cdn.eu/css-cnc/?family=ChunkFive-Regular");
+
+
+#DASCE {}
+#ACHTVIER {}
+#EFHA {}
+#ELEM {display: none;}
+</style>
 
 <defs>
     <radialGradient id="r84" cx="1.2" cy="0" r="1">
