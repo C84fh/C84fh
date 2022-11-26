@@ -106,15 +106,15 @@ var x = document.getElementById("EFHA");
     x.style.display = "none";
 var y = document.getElementById("ELEM");
     y.style.display = "block";
-} else {
-  if window.location.hostname().include("c84lm.cf"){
-    var x = document.getElementById("EFHA");
-       x.style.display = "none";
-    var y = document.getElementById("ELEM");
-       y.style.display = "block";
-  }
-}
-
+} else { 
+  wlh = window.location.hostname;
+  result = wlh.includes("c84fl.cf")
+   if (result == true){
+      var x = document.getElementById("EFHA");
+        x.style.display = "none";
+      var y = document.getElementById("ELEM");
+        y.style.display = "block";
+    } 
 }
 document.getElementById("FHLM").innerHTML = textA;
 </script>
