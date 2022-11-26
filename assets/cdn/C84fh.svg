@@ -1,9 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
 
+<defs>
+    <radialGradient id="r84" cx="1.2" cy="0" r="1">
+        <stop offset="0.15" stop-color="#CDBE70" />
+        <stop offset="1" stop-color="#104E8B" />
+    </radialGradient>
+
+    <radialGradient id="rFHLM" cx="0.9" cy="0.09" r="1">
+        <stop offset="0" stop-color="#8E388E" />
+        <stop offset="0.818" stop-color="#CDBE70" />
+        <stop offset="1" stop-color="#104E8B" />
+    </radialGradient>
+</defs>
+
 
 <!--   C   -->
-<g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<g id="DASCE" transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
+fill="#1E4A90"  stroke="none">
 <path d="M3440 8390 c-746 -49 -1399 -320 -1925 -797 -507 -461 -853 -1131
 -965 -1870 -58 -389 -60 -829 -4 -1228 72 -514 253 -1002 516 -1395 284 -424
 644 -737 1118 -973 428 -213 809 -302 1350 -314 376 -8 643 15 950 84 564 125
@@ -18,8 +31,8 @@ fill="#000000" stroke="none">
 </g>
 
 <!--   84   -->
-<g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<g id="ACHTVIER" transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
+fill="url(#r84)" stroke="none">
 <path d="M4079 6690 c-245 -28 -439 -118 -578 -266 -210 -224 -249 -552 -97
 -803 35 -57 131 -157 174 -180 12 -6 22 -15 22 -19 0 -4 -20 -18 -45 -31 -102
 -54 -240 -212 -301 -346 -61 -133 -83 -270 -64 -405 62 -456 456 -741 1020
@@ -39,8 +52,8 @@ fill="#000000" stroke="none">
 </g>
 
 <!--   fh   -->
-<g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<g id="EFHA" transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
+fill="url(#rFHLM)" stroke="none">
 <path d="M6735 3821 c-168 -41 -268 -138 -310 -298 -10 -39 -15 -107 -15 -210
 l0 -153 -55 0 -55 0 0 -160 0 -160 55 0 55 0 0 -305 0 -305 -50 0 -50 0 0
 -165 0 -165 373 2 372 3 3 162 2 162 -77 3 -78 3 0 300 0 300 113 3 112 3 0
@@ -54,8 +67,8 @@ c-190 0 -306 -4 -308 -10 -2 -6 -20 -4 -48 4 -152 46 -371 58 -495 27z"/>
 </g>
 
 <!--   lm   -->
-<g transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
+<g id="ELEM" transform="translate(0.000000,1080.000000) scale(0.100000,-0.100000)"
+fill="url(#rFHLM)" stroke="none">
 <path d="M6060 3635 l0 -165 50 0 50 0 0 -620 0 -620 -55 0 -55 0 2 -162 3
 -163 368 -3 367 -2 0 165 0 165 -75 0 -75 0 0 785 0 785 -290 0 -290 0 0 -165z"/>
 <path d="M7674 3191 c-59 -15 -122 -52 -187 -111 l-65 -60 -27 70 -27 70 -239
@@ -81,9 +94,19 @@ const urlParams = new URLSearchParams(queryString);
 
 textA = urlParams.get('lc');
 if (textA =="1") {
-    textA = "lm";
+    var x = document.getElementById("EFHA");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
 } else {
-textA = 'fh';
+var y = document.getElementById("ELEM");
+  if (y.style.display === "none") {
+    y.style.display = "block";
+  } else {
+    y.style.display = "none";
+  }
 }
 document.getElementById("FHLM").innerHTML = textA;
 </script>
